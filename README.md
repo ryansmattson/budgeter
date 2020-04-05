@@ -1,4 +1,4 @@
-# how_much
+# budgeter
 
 ## Project setup
 ```
