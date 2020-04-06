@@ -1,9 +1,11 @@
 <script>
     import Vue from 'vue';
+    import Vuex from 'vuex';
     import Home from '../src/views/Home';
     import axios from 'axios';
     import { Layout } from 'ant-design-vue';
 
+    Vue.use(Vuex);
     Vue.use(Layout);
     Vue.use(axios);
 
